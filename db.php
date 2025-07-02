@@ -1,7 +1,7 @@
 <?php
 
-$user = 'user';
-$pass = 'FalseTrue#1';
+$user = 'root';
+$pass = 'FalseTrue';
 $host = 'localhost';
 $dbname = 'employees';
 
